@@ -1,1 +1,1 @@
-
+Telecominucations infrastructure interface.
