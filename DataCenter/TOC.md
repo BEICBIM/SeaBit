@@ -1,1 +1,1 @@
-
+Secure, electromagentically hardened space for a large group of networked computer servers typically used by organizations for the remote storage, processing, or distribution of large amounts of data.
