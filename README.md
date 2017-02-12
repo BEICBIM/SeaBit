@@ -5,4 +5,4 @@ An [Ocean Thermal Energy Conversion (OTEC)](https://en.wikipedia.org/wiki/Ocean_
 
 See [Contribute.md](https://github.com/BEICBIM/SeaBit/blob/master/Contribute.md) for information about contributing to this project repository.
 
-Content for in the SeaBit repository is licensed as described in [License.md](https://github.com/BEICBIM/SeaBit/blob/master/License.md).
+Content in the SeaBit repository is licensed as described in [License.md](https://github.com/BEICBIM/SeaBit/blob/master/License.md).
