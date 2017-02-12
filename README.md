@@ -1,6 +1,8 @@
 # SeaBit
 A sustainable maritime integrated power, data center, & telecommunication system project.
 
-See [Contribute.md](https://github.com/BEICBIM/SeaBit/blob/master/Contribute.md) for informationa bout contributing to this project repsotiry.
+An [Ocean Thermal Energy Conversion (OTEC)](https://en.wikipedia.org/wiki/Ocean_thermal_energy_conversion) system has unique benefits (with 24/7/365 renewable base-load power and integrated seawater cooling) as a utility provider for an innovative data center facility.  The carrying capacity of seafloor fiber optic cable (with respect to satellites) and the electro-magnetic protection and other security benefits of offshore facility designs that integrate power generation and data center facility design beneath the free surface (e.g. [MS Project Natick](http://natick.research.microsoft.com/)) has unique convenience and value to intensive processing & communicating significant amounts of data.  There is a load proximity benefit of an offshore facility design concept that integrates a data center facility with OTEC power generation compared to transmitting power to the shore.  Integrating data center facility cooling and onsite energy recovery for the high temperature reservoir side of the OTEC power cycle has a unique efficiency-boosting value for the system. Data may transmitted to and from shore via fiber optic infrastructure (e.g. [seafloor cables](http://submarine-cable-map-2016.telegeography.com/)) .
+
+See [Contribute.md](https://github.com/BEICBIM/SeaBit/blob/master/Contribute.md) for informationa bout contributing to this project repository.
 
 Content for in the SeaBit repository is licensed as described in [License.md](https://github.com/BEICBIM/SeaBit/blob/master/License.md).
