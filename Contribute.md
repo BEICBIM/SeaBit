@@ -1,4 +1,6 @@
-The Built Environment Innovation Cooperative (BEIC) manages collaborative efforts aimed at built environment related innovations as project repositories in GitHub. 
+# Contribute to SeaBit
+
+The Built Environment Innovation Cooperative (BEIC) manages educational and collaborative efforts aimed at built environment related innovations as project repositories (like this one for SeaBit) in GitHub. 
 
 Open Source projects in repositories managed by BEIC generally follow the "GitHub Guides" content on "Contributing to Open Source on GitHub".
 
