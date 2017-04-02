@@ -1,1 +1,1 @@
-## Net Present Value Analysis of SeAbit Alternatives
+## Net Present Value Analysis of SeaBit Alternatives
