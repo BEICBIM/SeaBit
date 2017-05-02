@@ -1,9 +1,11 @@
-The validation folder of this project contains the content used by the delivery team for verifying that the owner's scope can be achieved within the allowable cost and time that owner has set.
+# Validation
 
-Scope
+This repository folder contains content used by project teams used for verifying that the scope for each of the system-of-system concept alternatives can be achieved within the allowable cost and time that owner has set.  The essential elements of each project concept validation includes the following:
 
-Value
+1. Scope
 
-Allowable Cost
+2. Value
 
-Market Cost
+3. Allowable Cost
+
+4. Market Cost
