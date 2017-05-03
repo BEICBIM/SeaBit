@@ -6,7 +6,7 @@
 3. Wave Energy Conversion (WEC)
 4. Tidal Energy
 5. Hydroelectric
-6. "Floatovoltaic" Solar
+6. Floating Solar
 
 ## Climate Control
 1. Seawater Cooling
