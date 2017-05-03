@@ -4,7 +4,7 @@
 1. [Ocean Thermal Energy Conversion (OTEC)](https://github.com/builtInnovator/SeaBit/blob/master/UtilitySystem/OTEC.md)
 2. Offshore Wind
 3. Wave Energy Conversion (WEC)
-4. Tidal Energy
+4. Tidal Energy Conversion
 5. Hydroelectric
 6. Floating Solar
 
