@@ -1,7 +1,7 @@
 # Central Utility Subsystems and Support Information:
 
 ## Power Generation, Energy Storage, and Backup Subsystems
-1. [Ocean Thermal Energy Conversion](https://github.com/builtInnovator/SeaBit/blob/master/UtilitySystem/OTEC.md)
+1. [Ocean Thermal Energy Conversion](https://github.com/builtInnovator/SeaBit/blob/master/UtilitySystem/OTEC/OTEC.md)
 2. Offshore Wind
 3. Wave Energy Conversion
 4. Tidal Energy Conversion
